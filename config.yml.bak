@@ -1,0 +1,14 @@
+# Server
+HOST: ""
+PORT: 22
+USER: ""
+
+# Local
+PKEY: ""
+
+# Files
+FILES:
+  - LOCAL: ""
+    REMOTE: ""
+  # - LOCAL: ""
+  #   REMOTE: ""
